@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/yashchitalia/Documents/yashchitalia_dot_com_stuff/CSS_tutorial'
+let g:netrw_dirhist_2='/Users/yashchitalia/Documents/yashchitalia_dot_com_stuff'
+let g:netrw_dirhist_3='/Users/yashchitalia/Documents/Real_Python/example_code'
+let g:netrw_dirhist_4='/Users/yashchitalia/Documents/Python_learner/google-python-exercises'

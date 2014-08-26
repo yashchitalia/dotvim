@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/yashchitalia/Documents/Python_learner/google-python-exercises'
+let g:netrw_dirhist_2='/Users/yashchitalia/Documents/Python_learner/google-python-exercises/logpuzzle'
+let g:netrw_dirhist_3='/Users/yashchitalia/Documents/SOPs_and_Recos_2013/SOP_Gatech'

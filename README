@@ -1,0 +1,11 @@
+Installation:
+
+    git clone git://github.com/yashchitalia/dotvim.git ~/.vim
+
+
+Create symbolic links:
+
+    ln -s ~/.vim/vimrc ~/.vimrc
+
+Enjoy VIM on any machine now!
+
